@@ -22,6 +22,21 @@
 
 Я мотивирован учиться новому и стремлюсь внести вклад в разработку, создавая чистый и поддерживаемый код.
 
+<!-- <div id="header" align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajoff&theme=dark)](https://github.com/krajoff" /></td>
+    <td valign="top"><img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="205"/></td>
+  </tr>
+</table>
+</div> -->
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krajoff&theme=default" alt="o1ra" /></p>
+
+<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krajoff&theme=github" alt="stats_o1ra" /></p>
+
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krajoff&theme=default" alt="stats_o1ra"/></p>
+
 ## 🛠 Технологии и инструменты:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Java Core](https://img.shields.io/badge/-Java%20Core-007396?style=flat-square&logo=java&logoColor=white)
