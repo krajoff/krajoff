@@ -63,44 +63,43 @@ Let’s connect and explore the world of software development together!
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
+## 🚀 Project Activities:
+**1. Multi-Plane Unit Sensitivity and Balancing Project**
+- Authentication & Security: Configured JWT-based Spring Security for registration and authentication, leveraging refresh and access tokens stored as `httpOnly` cookies for enhanced security.
+- Database Modeling: Designed a comprehensive PostgreSQL database to manage diverse aggregates, using MapStruct to extract and transform entities into required DTOs.
+- Query Optimization: Created complex queries for efficient data retrieval, grouping, and sorting, ensuring performance and accuracy across large datasets.
+- API Documentation: Integrated Swagger for API documentation, following RESTful principles in controller development to streamline external integrations.
+- Testing: Developed extensive unit and integration tests to validate and verify the interactions between components and ensure robust application behavior.
+- Frontend Development: Built a dynamic front end using Thymeleaf and JavaScript for seamless server interaction, enhancing user experience with real-time data manipulation.
+- Deployment: Deployed the application on fly.io, providing a scalable and accessible solution for multi-plane balancing: [Balancing App](https://balancing-app.fly.dev).
+- **Tech Stack**: Spring Boot, Gradle, Hibernate, PostgreSQL, Docker, Springdoc-openapi, Thymeleaf, Spring Security, Lombok, Liquebase, OpenAPI
+- **Repository:** [spring-balancing](https://github.com/krajoff/spring-balancing)
 
-## 🚀 Проектная деятельность:
-**1. Проект по вычислению чувствительностей и балансировочных грузов многоплоскостных агрегатов:**
-- Настроил регистрацию и аутентификацию JWT Spring Security с использованием refresh- и access-токенов через httpCookie HttpOnly.
-- Смоделировал базу данных Postgres для пула различных агрегатов с извлечением необходимых DTO через MapStruct.
-- Сформировал запросы для получения, группирования и сортировки записей из базы данных.
-- Настроил документацию через Swagger с написанием контроллеров в соответствии с REST API.
-- Написал unit и интеграционные тесты для проверки взаимодействия компонентов.
-- Разработал фронтенд с использованием Thymeleaf и JavaScript для динамического взаимодействия с сервером.
-- Развернул проект на fly.io: [Balancing App](https://balancing-app.fly.dev).
-- **Стек:** Spring Boot, Gradle, Hibernate, Postgres, Docker, Springdoc-openapi, Thymeleaf, Spring Security, Lombok, OpenAPI.
-- **Репозиторий:** [spring-balancing](https://github.com/krajoff/spring-balancing)
+**2. Task Management System:**
+- Authentication & Security: Set up Spring Security with JWT for user registration and authentication, ensuring secure access to user-specific resources.
+- Database & Entities: Modeled complex relationships in Spring Data JPA entities for PostgreSQL, utilizing DTOs via MapStruct for efficient data handling and transformation.
+- Advanced Querying: Implemented pagination, filtering, and grouping queries for task management, optimizing data access based on user needs.
+- Documentation: Documented the API using Swagger, adhering to RESTful standards for consistent and developer-friendly endpoints.
+- Code Documentation: Maintained high code quality by documenting methods and classes following the JavaDoc standard.
+- Testing: Conducted unit and integration tests to ensure data integrity, security compliance, and error handling within the application.
+- **Tech Stack**: Spring Boot, Gradle, Hibernate, PostgreSQL, Docker, Springdoc-openapi, Thymeleaf, Spring Security, Lombok, OpenAPI
+- **Repository:** [task-management-system](https://github.com/krajoff/task-management-system)
 
-**2. Проект по менеджменту задач:**
-- Настроил регистрацию и аутентификацию JWT Spring Security.
-- Смоделировал Spring Data JPA (Hibernate) сущности для базы данных Postgres с использованием DTO через MapStruct.
-- Сформировал запросы для пагинации, фильтрации и группировки задач.
-- Настроил документацию через Swagger с написанием контроллеров в соответствии с REST API.
-- Выполнил документирование в стандарте JavaDoc.
-- Написал unit и интеграционные тесты для проверки взаимодействия компонентов.
-- **Стек:** Spring Boot, Gradle, Hibernate, Postgres, Docker-compose, Docker, Springdoc-openapi, JavaDoc, Spring Security, Lombok, OpenAPI.
-- **Репозиторий:** [task-management-system](https://github.com/krajoff/task-management-system)
-
-**3. Проект аутентификации и регистрации пользователей:**
-- Смоделировал Hibernate сущности для Postgres с использованием DTO через MapStruct, соблюдая паттерн controller-service-repository.
-- Настроил endpoints в соответствии с REST API.
-- Спроектировал запросы для регистрации и авторизации.
-- **Стек:** Spring Boot, Gradle, Hibernate, Postgres, Docker-compose, Springdoc-openapi, Spring Security, Lombok, OpenAPI.
-- **Репозиторий:** [user-service](https://github.com/krajoff/user-service)
-
----
-
-## 🔍 Мои интересы:
-- Оптимизация запросов к БД
-- Создание эффективных систем управления данными
-- Алгоритмы и структуры данных
-- Разработка и проектирование API
+**3. User authentication and registration project:**
+- Modeled Hibernate entities for Postgres using DTO via MapStruct, respecting the controller-service-repository pattern.
+- Configured endpoints in accordance with the REST API.
+- Designed requests for registration and authorization.
+- **Stack:** Spring Boot, Gradle, Hibernate, Postgres, Docker-compose, Springdoc-openapi, Spring Security, Lombok, OpenAPI.
+- **Repository:** [user-service](https://github.com/krajoff/user-service)
 
 ---
 
-Буду рад обменяться опытом и обсудить интересные задачи!
+## 🔍 My interests:
+- Optimizing database queries
+- Creating efficient data management systems
+- Algorithms and data structures
+- API design and development
+  
+---
+
+I will be glad to exchange experience and discuss interesting tasks!
