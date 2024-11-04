@@ -15,8 +15,6 @@ My journey in programming has equipped me with a solid foundation in building ro
 ## 💻 About me:
 I prioritize code cleanliness and maintainability in every project I undertake. I thrive on the challenges of software development and 
 continually seek opportunities to enhance my skills and broaden my knowledge. My expertise includes:
-
-- **Technologies:** 
   - **Version Control:** Proficient with Git for collaborative development.
   - **Build Tools:** Experienced in Maven and Gradle for efficient project management and dependency handling.
   - **Databases:** Knowledgeable in PostgreSQL and MySQL, with a focus on optimal database design.
