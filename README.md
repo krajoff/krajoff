@@ -8,20 +8,28 @@
 </p>
 
 
-# Привет, я Стас! 👋
+# Hello there! 👋
+I'm a passionate Java developer with two years of experience in crafting scalable and maintainable applications. 
+My journey in programming has equipped me with a solid foundation in building robust RESTful web services, designing efficient databases, and implementing algorithms to solve complex problems.
 
-## 💻 Обо мне:
-Потихоньку программирую на Java уже в течение двух лет. За это время приобрел навыки создания масштабируемых и нужных приложений 
-с упором на чистоту кода и поддерживаемость. Занимаюсь разработкой RESTful веб-сервисов, проектированием баз данных и решением задач, требующих эффективных алгоритмов.
+## 💻 About me:
+I prioritize code cleanliness and maintainability in every project I undertake. I thrive on the challenges of software development and 
+continually seek opportunities to enhance my skills and broaden my knowledge. My expertise includes:
 
-Технологии, с которыми работаю:
-    контроль версий git;
-    сборка и управление зависимостями maven и gradle;
-    базы данных Postgres и MySQL;
-    ORM Hibernate;
-    тестирование JUnit и Mockito.
+- **Technologies:** 
+  - **Version Control:** Proficient with Git for collaborative development.
+  - **Build Tools:** Experienced in Maven and Gradle for efficient project management and dependency handling.
+  - **Databases:** Knowledgeable in PostgreSQL and MySQL, with a focus on optimal database design.
+  - **ORM Frameworks:** Utilizing Hibernate for seamless database interactions.
+  - **Database Migration:** Skilled in using Liquibase for managing database migrations and versioning.
+  - **Testing:** Strong background in JUnit and Mockito for ensuring code quality through robust testing practices.
 
-Мотивирован учиться новому и стремлюсь внести вклад в разработку, создавая чистый и поддерживаемый код.
+## 🚀 What I’m Currently Exploring
+
+I am always motivated to learn new technologies and methodologies to improve my development skills. 
+I enjoy contributing to open-source projects and collaborating with others to create clean, maintainable code.
+
+Let’s connect and explore the world of software development together!
 
 <!-- <div id="header" align="center">
 <table>
