@@ -44,7 +44,7 @@ Let’s connect and explore the world of software development together!
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krajoff&theme=default" alt="stats_o1ra"/></p>
 
-## 🛠 Технологии и инструменты:
+## 🛠 Technology and tools:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Java Core](https://img.shields.io/badge/-Java%20Core-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
