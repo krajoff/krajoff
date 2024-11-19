@@ -21,6 +21,7 @@ continually seek opportunities to enhance my skills and broaden my knowledge. My
   - **ORM Frameworks:** Utilizing Hibernate for seamless database interactions.
   - **Database Migration:** Skilled in using Liquibase for managing database migrations and versioning.
   - **Testing:** Strong background in JUnit and Mockito for ensuring code quality through robust testing practices.
+  - **MATLAB:** Interested in optimization techniques and evolutionary algorithms, particularly in the context of NSGA-II (Non-dominated Sorting Genetic Algorithm II)
 
 ## 🚀 What I’m Currently Exploring
 
@@ -61,6 +62,7 @@ Let’s connect and explore the world of software development together!
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00897B?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ---
 ## 🚀 Project Activities:
