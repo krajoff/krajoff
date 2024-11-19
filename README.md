@@ -94,6 +94,16 @@ Let’s connect and explore the world of software development together!
 - **Stack:** Spring Boot, Gradle, Hibernate, Postgres, Docker-compose, Springdoc-openapi, Spring Security, Lombok, OpenAPI.
 - **Repository:** [user-service](https://github.com/krajoff/user-service)
 
+**4. Kafka Messaging System:**
+- Producer: A Spring Boot application that sends messages to Kafka. It uses @Scheduled to automate the process of message generation and transmission every minute.
+- Consumer: A Spring Boot application that reads messages from Kafka and stores them in PostgreSQL. The application also uses Liquibase for managing database schema migrations, automating updates to the database structure during deployment.
+- UI Backend: A Spring Boot application that exposes an API to manage the messages stored in PostgreSQL, providing a user interface for easy interaction.
+- Kafka: Used to transfer messages between the producer and consumer, ensuring reliable communication in a distributed system.
+- Zookeeper: Coordinates the operation of the Kafka cluster, ensuring fault tolerance and proper management of distributed components.
+- PostgreSQL: The database for storing the messages consumed from Kafka.
+- **Stack:** Spring Boot, Kafka, PostgreSQL, Docker, Liquibase, Zookeeper, Spring Security, Lombok
+- **Repository:** [kafka-simple](https://github.com/krajoff/kafka-simple)
+
 ---
 
 ## 🔍 My interests:
